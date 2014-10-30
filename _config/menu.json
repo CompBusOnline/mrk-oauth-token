@@ -1,0 +1,9 @@
+{
+  "menu-first-mrk-oauth-token": {
+      "weight": 100000,
+      "title": "OAuth Token",
+      "attr": {
+          "href": "/Admin/AppLoader.aspx?client_id=mrk-oauth-token"
+      }
+  }
+}
